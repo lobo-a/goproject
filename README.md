@@ -1,7 +1,9 @@
-# simhash
- 使用 scws 分词器，计算simhash
+# code
+ 
+<h2>Notice</h2>
 
-<h3>Notice</h3>
+<h3>simhash</h3>
+使用 scws 分词器，计算simhash
 
 <strong>wordsegment:</strong>
 
