@@ -1,5 +1,5 @@
 # simhash
-use scws tokenizer calculate simhash
+ 使用 scws 分词器，计算simhash
 
 <h3>Notice</h3>
 
