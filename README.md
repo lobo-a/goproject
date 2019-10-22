@@ -5,9 +5,10 @@ simhash
 <h2>Notice</h2>
 
 <h3>simhash</h3>
+
 使用 scws 分词器，计算simhash
 
-<strong>wordsegment:</strong>
+<h4>wordsegment:</h4>
 
 本示例使用的是 scws 1.2.3 版本 <a href="http://www.xunsearch.com/scws/docs.php">http://www.xunsearch.com/scws/docs.php</a>
 
